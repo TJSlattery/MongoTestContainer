@@ -1,0 +1,4 @@
+pytest
+pymongo
+testcontainers[mongodb]
+# -pytest-mock --- IGNORE ---
