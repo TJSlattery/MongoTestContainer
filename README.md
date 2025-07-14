@@ -25,4 +25,4 @@ This project demonstrates how to:
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
-python demo_app.py
+python test_db_connection.py
